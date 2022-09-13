@@ -5,7 +5,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://yup03.github.io/sunnyside-agency-landing-page/)
 
 ### The challenge
 
@@ -22,7 +22,7 @@ From this challenge, I learned how to build `optimal layouts` for Websites And t
 ### Useful resources
 
 - [Css portal website](https://www.cssportal.com) helped me to generate a good shape for my Mobile-Navigation using the `clip-path` property
-- [Example resource 2](https://developer.mozilla.org) Since the design was provided with `Desktop` and `Mobile` images, `MDN` was a good helping tool when it comes to have a better understanding of the `picture` element.
+- [MDN](https://developer.mozilla.org) Since the design was provided with `Desktop` and `Mobile` images, `MDN` was a good helping tool when it comes to have a better understanding of the `picture` element.
 
 ## My Profile at Frontend Mentor
 
