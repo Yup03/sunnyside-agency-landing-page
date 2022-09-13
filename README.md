@@ -24,7 +24,6 @@ From this challenge, I learned how to build `optimal layouts` for Websites And t
 - [Css portal website](https://www.cssportal.com) helped me to generate a good shape for my Mobile-Navigation using the `clip-path` property
 - [Example resource 2](https://developer.mozilla.org) Since the design was provided with `Desktop` and `Mobile` images, `MDN` was a good helping tool when it comes to have a better understanding of the `picture` element.
 
-## Author
+## My Profile at Frontend Mentor
 
-- Frontend Mentor - [@Yup03](https://www.frontendmentor.io/profile/Yup03)
-- Twitter - [@POUYEMouha1](https://www.twitter.com/POUYEMouha1)
+[@Yup03](https://www.frontendmentor.io/profile/Yup03)
